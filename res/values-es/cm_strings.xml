@@ -62,4 +62,5 @@
     <string name="proximity_wake_summary">Comprobar el sensor de proximidad antes de encender la pantalla</string>
     <string name="wake_when_plugged_or_unplugged_title">Encender al conectar el cargador</string>
     <string name="wake_when_plugged_or_unplugged_summary">Encender la pantalla al conectar o desconectar el cargador</string>
+    <string name="device_info_protected_single_press">Toque para mostrar la información</string>     
 </resources>
